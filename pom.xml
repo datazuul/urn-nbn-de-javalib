@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   
-  <name>datazuul libs: URN:NBN:DE Java Library</name>
+  <name>datazuul libs: Prüfzifferverfahren URN:NBN:DE</name>
   <groupId>com.datazuul.urn</groupId>
   <artifactId>urn-nbn-de</artifactId>
   <version>1.0.0-SNAPSHOT</version>
